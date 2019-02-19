@@ -6,7 +6,7 @@ import random
 wn = turtle.Screen()
 wn.setup(500, 500)
 wn.bgcolor("white")
-# wn.tracer(0)
+wn.tracer(0)
 
 #Turtle object for falling block
 t = turtle.Turtle()
